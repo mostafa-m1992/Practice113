@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Page2"
+        android:id="@+id/page2"/>
+
+    <item
+        android:title="Page3"
+        android:id="@+id/page3"/>
+
+    <item
+        android:title="Page4"
+        android:id="@+id/page4"/>
+
+    <item
+        android:title="Page5"
+        android:id="@+id/page5"/>
+
+    <item
+        android:title="Page6"
+        android:id="@+id/page6"/>
+
+    <item
+        android:title="Page7"
+        android:id="@+id/page7"/>
+
+    <item
+        android:title="Page8"
+        android:id="@+id/page8"/>
+
+    <item
+        android:title="Page9"
+        android:id="@+id/page9"/>
+
+    <item
+        android:title="Page10"
+        android:id="@+id/page10"/>
+
+    <item
+        android:title="Page11"
+        android:id="@+id/page11"/>
+
+    <item
+        android:title="Page12"
+        android:id="@+id/page12"/>
+
+    <item
+        android:title="Page13"
+        android:id="@+id/page13"/>
+
+    <item
+        android:title="Page14"
+        android:id="@+id/page14"/>
+
+</menu>
